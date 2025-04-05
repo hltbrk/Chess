@@ -19,6 +19,18 @@ Bu proje, Java programlama diliyle nesne yönelimli olarak geliştirilmiş basit
 
 
 
+
+
+```bash
+cd C:\Users\Huawei\Desktop\chess
+javac -d out src/chess/*.java src/chess/pieces/*.java
+java -cp out chess.ChessApp
+
+
+
+
+
+
 ks as fs vs ss fs -- ks
 ps ps ps ps -- ps ps ps
 -- -- -- -- -- as -- --
@@ -27,13 +39,6 @@ ps ps ps ps -- ps ps ps
 -- -- -- -- -- -- -- --
 pb pb pb -- pb pb pb pb
 kb -- fb vb sb fb ab kb
-
 örnek txt içeriği
 böyle olmalıdır
-
-```bash
-cd C:\Users\Huawei\Desktop\chess
-javac -d out src/chess/*.java src/chess/pieces/*.java
-java -cp out chess.ChessApp
-
 
